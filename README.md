@@ -1,6 +1,8 @@
 # BDN9-godofbooks
-  
 Code used for Keebio's BDN9 9 key macropad. This code is based off of the default BDN9 code provided, with RGB and other elements pulled from the community. All resources used will be listed in the README. This code is free to use and edit as you please. 
+
+## LED Support
+This code contains code to support LED's, both underglow and backlighting. 
 
 
 ## Resources
