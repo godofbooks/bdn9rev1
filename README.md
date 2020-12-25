@@ -8,9 +8,3 @@ This code does **NOT** contain support for underglow or backlighting LED's. Plea
 
 ## Resources
 Default Keebio Code: https://github.com/qmk/qmk_firmware/blob/master/keyboards/keebio/bdn9/keymaps/default/keymap.c
-
-RGB Code (taken from a reddit thread; credit to u/Drashna): https://www.reddit.com/r/olkb/comments/8bzipp/qmk_help_rgb_layers_and_additional_questions/
-
-Drashna: https://github.com/drashna & https://www.reddit.com/user/drashna/
-
-RGB Light List: https://github.com/qmk/qmk_firmware/blob/master/quantum/rgblight_list.h
